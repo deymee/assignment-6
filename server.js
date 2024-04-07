@@ -1,3 +1,16 @@
+/*********************************************************************************
+*  WEB700 – Assignment 05
+*  I declare that this assignment is my own work in accordance with Seneca  Academic Policy.  No part 
+*  of this assignment has been copied manually or electronically from any other source 
+*  (including 3rd party web sites) or distributed to other students.
+* 
+*  Name: Oluwademilade Jeleel Salami Student ID: 125970228 Date: 2024-09-04
+*
+*  Online (Cycliic) Link: 
+*
+********************************************************************************/ 
+
+
 const express = require("express");
 const path = require("path");
 const exphbs = require("express-handlebars");
