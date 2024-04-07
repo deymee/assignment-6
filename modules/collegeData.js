@@ -4,7 +4,7 @@ var sequelize = new Sequelize(
   "wgbsyasz ",
   "3veYhFN3lR5HqoOka4ThTZJpUhd2hWsV",
   {
-    host: "isilo.db.elephantsql.com",
+    host: "bubble.db.elephantsql.com",
     dialect: "postgres",
     port: 5432,
     dialectOptions: {
