@@ -1,8 +1,8 @@
 const Sequelize = require("sequelize")
 var sequelize = new Sequelize(
-  "feaascnq",
-  "feaascnq",
-  "l9XBKDETTPqPYHM1x1Rl9ZfBAzNTsVbd",
+  "wgbsyasz ",
+  "wgbsyasz ",
+  "3veYhFN3lR5HqoOka4ThTZJpUhd2hWsV",
   {
     host: "isilo.db.elephantsql.com",
     dialect: "postgres",
