@@ -1,7 +1,7 @@
 const Sequelize = require("sequelize")
 var sequelize = new Sequelize(
-  "wgbsyasz ",
-  "wgbsyasz ",
+  "wgbsyasz",
+  "wgbsyasz",
   "3veYhFN3lR5HqoOka4ThTZJpUhd2hWsV",
   {
     host: "bubble.db.elephantsql.com",
